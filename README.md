@@ -41,7 +41,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📺 Latest YouTube Videos
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DanLoans's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DanLoans&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@DanLoans?sub_confirmation=1)
 
@@ -52,6 +52,8 @@ I'm an indie full-stack developer and content creator building my version of the
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=DanLoans&theme=gruvbox&border_radius=4.5) -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DanLoans's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DanLoans&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 #
 
