@@ -1,4 +1,4 @@
-# 🏄‍♂️ DANLOANS
+# 💀 DANLOANS
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
@@ -8,7 +8,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <p align="center">
   <a href="https://www.youtube.com/@DanLoans"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/E3qHBJ8FRF" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
