@@ -39,49 +39,9 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-<details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+### 📺 Latest YouTube Videos
 
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DanLoans/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/DanLoans/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DanLoans's streak" src="https://streak-stats.demolab.com/?user=DanLoans&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DanLoans's Github Stats" src="https://DanLoans-github-readme-stats.vercel.app/api/?username=DanLoans&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DanLoans's Top Languages" src="https://DanLoans-github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DanLoans's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DanLoans&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#955](https://github.com/python-babel/babel/pull/955) in [python-babel/babel](https://github.com/python-babel/babel)
-2. 💪 Opened PR [#953](https://github.com/python-babel/babel/pull/953) in [python-babel/babel](https://github.com/python-babel/babel)
-3. 🎉 Merged PR [#427](https://github.com/DanLoans/github-readme-streak-stats/pull/427) in [DanLoans/github-readme-streak-stats](https://github.com/DanLoans/github-readme-streak-stats)
-4. 💪 Opened PR [#427](https://github.com/DanLoans/github-readme-streak-stats/pull/427) in [DanLoans/github-readme-streak-stats](https://github.com/DanLoans/github-readme-streak-stats)
-5. 🗣 Commented on [#419](https://github.com/DanLoans/github-readme-streak-stats/issues/419) in [DanLoans/github-readme-streak-stats](https://github.com/DanLoans/github-readme-streak-stats)
-<!--END_SECTION:activity-->
-
-</details>
-
-
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DanLoans's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DanLoans&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@DanLoans?sub_confirmation=1)
 
