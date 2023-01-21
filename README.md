@@ -12,6 +12,8 @@ I'm an indie full-stack developer and content creator building my version of the
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<iframe src="https://discord.com/widget?id=900349208064835584&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
    <p align="left">
       <a href="https://www.youtube.com/@DanLoans?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCtDHg232EZOck9P0cgPEftQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
