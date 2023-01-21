@@ -41,19 +41,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📺 Latest YouTube Videos
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DanLoans/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/DanLoans/github-readme-streak-stats"><img width="278" src="https://DanLoans-github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DanLoans/readme-typing-svg"><img width="278" src="https://DanLoans-github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DanLoans/custom-icon-badges"><img width="278" src="https://DanLoans-github-readme-stats.vercel.app/api/pin?username=DanLoans&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/DanLoans/unicode-formatter"><img width="278" src="https://DanLoans-github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
-    <a href="https://github.com/DanLoans/unedit-for-reddit"><img width="278" src="https://DanLoans-github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-    <a href="https://github.com/DanLoans/github-readme-youtube-cards"><img width="278" src="https://DanLoans-github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/DanLoans/latex-gboard-dictionary"><img width="278" src="https://DanLoans-github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
-    <a href="https://github.com/DanLoans/minimalistic-wallpaper-collection"><img width="278" src="https://DanLoans-github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
-    <a href="https://github.com/DanLoans/table2ascii"><img width="278" src="https://DanLoans-github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
-  </p>
+
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@DanLoans?sub_confirmation=1)
 
