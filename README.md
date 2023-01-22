@@ -171,6 +171,8 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=DanLoans&theme=gruvbox&border_radius=4.5) -->
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanLoans&&theme=gruvbox" alt="DanLoans" /></p>
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DanLoans's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DanLoans&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 #
