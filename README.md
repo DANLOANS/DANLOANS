@@ -165,7 +165,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanLoans&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DanLoans" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanLoans&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="DanLoans" /></p>
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&theme=gruvbox)
 
