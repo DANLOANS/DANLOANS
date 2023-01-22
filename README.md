@@ -167,9 +167,8 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanLoans&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="DanLoans" /></p>
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&theme=gruvbox)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&locale=en&theme=gruvbox" alt="DanLoans" /></p>
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=DanLoans&theme=gruvbox&border_radius=4.5) -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanLoans&&theme=gruvbox" alt="DanLoans" /></p>
 
