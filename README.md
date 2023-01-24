@@ -1,4 +1,30 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22ff05&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=22ff05&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+DanLoans;I'm+20+years+old;I'm+from+thai;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DanLoans&bg_color=100f1a&color=2b9c3e&line=269c53&point=22ff05&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DanLoans&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&count_private=true&hide_border=true&title_color=22ff05&icon_color=22ff05&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&layout=compact&hide_border=true&title_color=22ff05&text_color=22ff05&bg_color=0d1117" />
+</div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DanLoans}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22ff05&height=120&section=footer"/>
+
+
 # 💀 DANLOANS
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
@@ -175,7 +201,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DanLoans's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DanLoans&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-#
 
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
