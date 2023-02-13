@@ -32,12 +32,7 @@
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[DanLoans][youtube]" to more than 400k subscribers.
 
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/@DanLoans"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+
 
    <p align="left">
       <a href="https://www.youtube.com/@DanLoans?sub_confirmation=1">
