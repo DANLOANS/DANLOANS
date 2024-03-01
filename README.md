@@ -11,9 +11,8 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&count_private=true&hide_border=true&title_color=22ff05&icon_color=22ff05&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&layout=compact&hide_border=true&title_color=22ff05&text_color=22ff05&bg_color=0d1117" />
+  <img alt="wakatime-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DanLoans&layout=compact&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
 </div>
-
-<img alt="wakatime-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DanLoans&layout=compact&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
