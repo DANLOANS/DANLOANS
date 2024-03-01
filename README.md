@@ -1,9 +1,5 @@
 ![profile)](https://github.com/DANLOANS/DANLOANS/blob/main/images/114.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=22ff05&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+DanLoans;I'm+20+years+old;I'm+from+thai;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DanLoans&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
