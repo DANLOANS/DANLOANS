@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22ff05&height=120&section=header"/>
 
-![ohio.jpg)](https://github.com/DANLOANS/DANLOANS/blob/main/images/ohio.jpg)
+![profile)](https://github.com/DANLOANS/DANLOANS/blob/main/images/ohio.jpg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=22ff05&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+DanLoans;I'm+20+years+old;I'm+from+thai;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
