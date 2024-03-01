@@ -13,6 +13,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&layout=compact&hide_border=true&title_color=22ff05&text_color=22ff05&bg_color=0d1117" />
 </div>
 
+<img alt="wakatime-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DanLoans&layout=compact&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DanLoans}/count.svg" /></p> 
