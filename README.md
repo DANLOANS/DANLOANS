@@ -3,9 +3,6 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&count_private=true&hide_border=true&title_color=e0e0e0&icon_color=e0e0e0&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&layout=compact&hide_border=true&title_color=ee0e0e0&text_color=e0e0e0&bg_color=0d1117" />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanLoans&&theme=gruvbox" alt="DanLoans" /></p>
-</div>
-
 <!-- Social icons section -->
 
 
