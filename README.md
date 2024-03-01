@@ -22,7 +22,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22ff05&height=120&section=footer"/>
 
 
-# 💀 DANLOANS
+# (./images/ohio.jpg) DANLOANS
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
