@@ -7,15 +7,20 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&count_private=true&hide_border=true&title_color=e0e0e0&icon_color=e0e0e0&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&layout=compact&hide_border=true&title_color=ee0e0e0&text_color=e0e0e0&bg_color=0d1117" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanLoans&&theme=gruvbox" alt="DanLoans" /></p>
 </div>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DanLoans's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DanLoans&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DanLoans}/count.svg" /></p> 
 <br>
 </div>
+
+# 💀 DANLOANS
+
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[DanLoans][youtube]" to more than 400k subscribers.
 
 <!-- Social icons section -->
 
@@ -152,3 +157,31 @@
   </p>
 </details>
 
+<details> 
+
+### 📺 Latest YouTube Videos
+
+
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@DanLoans?sub_confirmation=1)
+
+#
+
+### 📊 Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanLoans&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="DanLoans" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&locale=en&theme=gruvbox" alt="DanLoans" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanLoans&&theme=gruvbox" alt="DanLoans" /></p>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DanLoans's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DanLoans&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+
+[website]: https://fkcodes.com
+[youtube]: https://youtube.com/DanLoans
