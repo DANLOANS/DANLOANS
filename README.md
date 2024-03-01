@@ -15,9 +15,6 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e0e0e0&height=120&section=footer"/>
-
-
 # 💀 DANLOANS
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
