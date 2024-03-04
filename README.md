@@ -1,16 +1,5 @@
 ![profile)](https://github.com/DANLOANS/DANLOANS/blob/main/images/113.png)
 
-<a align="right" href="https://dub.sh/Aai" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://lanyard.kyrie25.me/api/600994658641772544?&theme=light&bg=eff1f5&idleMessage=Just%20chillin%27%20at%20the%20moment...">
-    <img align="right" alt="DanLoans's discord profile" src="https://lanyard.kyrie25.me/api/600994658641772544?bg=1e1e2e&idleMessage=Just%20chillin%27%20at%20the%20moment...">
-  </picture>
-</a>
-
-<a href="https://dub.sh/Ticker-bots-from-gh" target="_blank">
-      <img src="https://discordapp.com/api/guilds/600994658641772544/widget.png?style=banner2" />
-  </a>
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&count_private=true&hide_border=true&title_color=e0e0e0&icon_color=e0e0e0&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&layout=compact&hide_border=true&title_color=ee0e0e0&text_color=e0e0e0&bg_color=0d1117" />
