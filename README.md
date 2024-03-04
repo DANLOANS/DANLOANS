@@ -1,5 +1,12 @@
 ![profile)](https://github.com/DANLOANS/DANLOANS/blob/main/images/113.png)
 
+<a align="right" href="https://dub.sh/Aai" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://lanyard.kyrie25.me/api/90431685472038912?&theme=light&bg=eff1f5&idleMessage=Just%20chillin%27%20at%20the%20moment...">
+    <img align="right" alt="Aai's discord profile" src="https://lanyard.kyrie25.me/api/90431685472038912?bg=1e1e2e&idleMessage=Just%20chillin%27%20at%20the%20moment...">
+  </picture>
+</a>
+
 <a href="https://dub.sh/Ticker-bots-from-gh" target="_blank">
       <img src="https://discordapp.com/api/guilds/600994658641772544/widget.png?style=banner2" />
   </a>
