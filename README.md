@@ -15,11 +15,11 @@
 
 | Languages ​​and tools | Github Stats |
 |---|---|
-| Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL
-Frameworks: Node.js, Discord.js, Bootstrap
-Tools: Git, Docker
-IDEs: Visual Studio Code, Visual Studio, Android Studio
-Etc: Cloudflare, Vercel, Railway, AWS, Grafana, MariaDB
+| Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL | 
+Frameworks: Node.js, Discord.js, Bootstrap |
+Tools: Git, Docker |
+IDEs: Visual Studio Code, Visual Studio, Android Studio |
+Etc: Cloudflare, Vercel, Railway, AWS, Grafana, MariaDB | ![DanLoans's Stats](https://github.com/DANLOANS/DANLOANS/blob/main/images/113.png) |
 Currently Learning: Elixir, C++, Flutter, Next.js, Svelte | ![DanLoans's Stats](https://github.com/DANLOANS/DANLOANS/blob/main/images/113.png) |
 
   
