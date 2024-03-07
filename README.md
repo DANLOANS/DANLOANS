@@ -14,7 +14,7 @@
 
 | Github Trophy | Github Stats |
 |---|---|
-| ![DanLoans's Trophy](https://github-profile-trophy.vercel.app/?username=DanLoans&theme=algolia&row=2&column=3&border_radius=45) | ![DanLoans's Stats](https://github-readme-stats.vercel.app/api?username=DanLoans&theme=algolia&show_icons=true&hide_border=false&count_private=true&border_radius=20&date_format=j%20M%5B%20Y%5D) |
+| ![DanLoans's Trophy](https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&count_private=true&hide_border=true&title_color=e0e0e0&icon_color=e0e0e0&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats) | ![DanLoans's Stats](https://github-readme-stats.vercel.app/api?username=DanLoans&theme=algolia&show_icons=true&hide_border=false&count_private=true&border_radius=20&date_format=j%20M%5B%20Y%5D) |
 
 | Top Languages | Github Streak |
 |---|---|
