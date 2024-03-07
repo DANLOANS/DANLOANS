@@ -29,7 +29,7 @@
 |---|
 | <li> I will be the person who will be doing a project about Discord bot.</li> |
 | <li> I'm more comfortable with JS than any other language except HTML.</li> |
-| Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL |
+| <li> And if you're interested in my project, you can develop it, but you can't sell it.</li> |
 
 <details> 
   <summary><h2> Languages ​​and tools </h2></summary>
