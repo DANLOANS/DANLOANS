@@ -22,7 +22,7 @@
 
 
 <details> 
-  <summary><h2> Languages ​​and tools </h2></summary>
+  <summary><h2> About Me </h2></summary>
   <h3> Languages ​​and tools </h3>
 
 | Languages ​​and tools |  |
