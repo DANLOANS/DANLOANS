@@ -15,7 +15,7 @@
 
 | My Discord | Github Stats |
 |---|---|
-| ![DanLoans's Trophy](
+|
 Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL
 Frameworks: Vite.js, Solid.js React.js, Preact, Node.js, Discord.js, Bootstrap, Chakra UI, TailwindCSS
 Tools: Git, Docker, zsh, Oh My Zsh
