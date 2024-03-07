@@ -27,8 +27,8 @@
 
 | My Name is DanLoans |
 |---|
-| <li>I will be the person who will be doing a project about Discord bot.</li> |
-| Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL |
+| <li> I will be the person who will be doing a project about Discord bot.</li> |
+| <li> I'm more comfortable with JS than any other language except HTML.</li> |
 | Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL |
 
 <details> 
