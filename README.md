@@ -23,10 +23,10 @@
 
 <details> 
   <summary><h2> About Me </h2></summary>
-  <h3> Languages ​​and tools </h3>
+  <h3> About Me </h3>
 
-| Languages ​​and tools |  |
-|---|---|
+| Languages ​​and tools |
+|---|
 | Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL | ![DanLoans's Stats](https://skillicons.dev/icons?i=js,html,css) |
 
 <details> 
