@@ -14,7 +14,7 @@
 
 | Github Stats |Top Languages |
 |---|---|
-| ![DanLoans's Top Languages](https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&count_private=true&hide_border=true&title_color=e0e0e0&icon_color=e0e0e0&text_color=c9d1d9&bg_color=0d1117) | ![DanLoans's Streak](https://github-readme-activity-graph.vercel.app/graph?username=DanLoans&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=12091A&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) |
+| ![DanLoans's Top Languages](https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&count_private=true&hide_border=true&title_color=e0e0e0&icon_color=e0e0e0&text_color=c9d1d9&bg_color=0d1117) | ![DanLoans's Streak](https://github-readme-activity-graph.vercel.app/graph?username=DanLoans&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=2D2D2D&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) |
 
 
 <details> 
