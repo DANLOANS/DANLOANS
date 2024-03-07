@@ -25,9 +25,9 @@
   <summary><h2> About Me </h2></summary>
   <h3> About Me </h3>
 
-| Languages ​​and tools |
+| My Name is DanLoans |
 |---|
-| Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL |
+| <li>Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL</li> |
 | Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL |
 | Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL |
 
