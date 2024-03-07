@@ -84,6 +84,7 @@ Currently Learning: Elixir, C++, Flutter, Next.js, Svelte | ![DanLoans's Stats](
       <a href="https://github.com/search?q=user%3ADanLoans+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
+  <details> 
   <summary><h2> My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -115,3 +116,7 @@ Currently Learning: Elixir, C++, Flutter, Next.js, Svelte | ![DanLoans's Stats](
       <a href="https://github.com/search?q=user%3ADanLoans+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
+  
+
+
+  
