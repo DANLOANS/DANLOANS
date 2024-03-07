@@ -38,11 +38,11 @@
 | Languages ​​and tools |  |
 |---|---|
 | <li> Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL </li> | ![DanLoans's Stats](https://skillicons.dev/icons?i=js,html,css) |
-Frameworks: Node.js, Discord.js, Bootstrap | ![DanLoans's Stats](https://skillicons.dev/icons?i=discordjs,bootstrap,npm) |
-Tools: Git, rust | ![DanLoans's Stats](https://skillicons.dev/icons?i=git,rust) |
-IDEs: Visual Studio Code, Visual Studio, Android Studio | ![DanLoans's Stats](https://skillicons.dev/icons?i=vscode,visualstudio,arduino) |
-Etc: Cloudflare, Vercel, Railway, AWS, Grafana, MariaDB | 
-Currently Learning: Elixir, C++, Flutter, Next.js, Svelte | 
+| <li> Frameworks: Node.js, Discord.js, Bootstrap </li> | ![DanLoans's Stats](https://skillicons.dev/icons?i=discordjs,bootstrap,npm) |
+| <li> Tools: Git, rust </li> | ![DanLoans's Stats](https://skillicons.dev/icons?i=git,rust) |
+| <li> IDEs: Visual Studio Code, Visual Studio, Android Studio </li> | ![DanLoans's Stats](https://skillicons.dev/icons?i=vscode,visualstudio,arduino) |
+| <li> Etc: Cloudflare, Vercel, Railway, AWS, Grafana, MariaDB </li> | 
+| <li>Currently Learning: Elixir, C++, Flutter, Next.js, Svelte </li> | 
 
   
 <!-- Social icons section -->
