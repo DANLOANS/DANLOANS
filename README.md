@@ -5,9 +5,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&layout=compact&hide_border=true&title_color=ee0e0e0&text_color=e0e0e0&bg_color=0d1117" />
   | Github Trophy | Github Stats |
 |---|---|
-| ![thirawat27's Trophy](https://github-profile-trophy.vercel.app/?username=thirawat27&theme=algolia&row=2&column=3&border_radius=45) | ![thirawat27's Stats](https://github-readme-stats.vercel.app/api?username=thirawat27&theme=algolia&show_icons=true&hide_border=false&count_private=true&border_radius=20&date_format=j%20M%5B%20Y%5D) |
-  <a href="#">
-    <img alt="lanyard" src="https://lanyard.cnrad.dev/api/600994658641772544"/>
+| ![DanLoans]( <a href="#"><img alt="lanyard" src="https://lanyard.cnrad.dev/api/600994658641772544"/>
+</a>) | ![danLoans]( <a href="#">
+    <img alt="lanyard" src="https://lanyard.cnrad.dev/api/600994658641772544"/></a>) |
+  <a href="#"><img alt="lanyard" src="https://lanyard.cnrad.dev/api/600994658641772544"/>
 </a>
   <a href="https://github.com/DanLoans" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&langs_count=10&title_color=ee0e0e0&text_color=ffffff&icon_color=ee0e0e0&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
