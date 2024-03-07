@@ -13,7 +13,7 @@
 | ![DanLoans's Top Languages](https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&count_private=true&hide_border=true&title_color=e0e0e0&icon_color=e0e0e0&text_color=c9d1d9&bg_color=0d1117) | ![DanLoans's Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&langs_count=10&title_color=ee0e0e0&text_color=ffffff&icon_color=ee0e0e0&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages) |
 
 
-| My Discord | Github Stats |
+| Languages ​​and tools | Github Stats |
 |---|---|
 | Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL
 Frameworks: Node.js, Discord.js, Bootstrap
