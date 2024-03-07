@@ -7,7 +7,6 @@
     <img alt="lanyard" src="https://lanyard.cnrad.dev/api/600994658641772544"/>
 </a>
   <a href="https://github.com/DanLoans" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&langs_count=10&title_color=ee0e0e0&text_color=ffffff&icon_color=ee0e0e0&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-  <img alt="wakatime-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DanLoans&layout=compact&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
   
 <!-- Social icons section -->
 
