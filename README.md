@@ -15,13 +15,13 @@
 
 | My Discord | Github Stats |
 |---|---|
-|
+| ![DanLoans's Trophy][
 Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL
 Frameworks: Vite.js, Solid.js React.js, Preact, Node.js, Discord.js, Bootstrap, Chakra UI, TailwindCSS
 Tools: Git, Docker, zsh, Oh My Zsh
 IDEs: Jetbrains IDEs, Visual Studio Code, Visual Studio, Android Studio
 Etc: Cloudflare, Vercel, Railway, AWS, Grafana, MariaDB
-Currently Learning: Elixir, C++, Flutter, Next.js, Svelte) | ![DanLoans's Stats]() |
+Currently Learning: Elixir, C++, Flutter, Next.js, Svelte]; | ![DanLoans's Stats]() |
 
 <h4>🛠️ My Dev Stacks</h4>
 <ul>
