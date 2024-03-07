@@ -20,7 +20,7 @@ Frameworks: Vite.js, Solid.js React.js, Preact, Node.js, Discord.js, Bootstrap, 
 Tools: Git, Docker, zsh, Oh My Zsh
 IDEs: Jetbrains IDEs, Visual Studio Code, Visual Studio, Android Studio
 Etc: Cloudflare, Vercel, Railway, AWS, Grafana, MariaDB
-Currently Learning: Elixir, C++, Flutter, Next.js, Svelte | ![DanLoans's Stats]() |
+Currently Learning: Elixir, C++, Flutter, Next.js, Svelte | ![DanLoans's Stats](https://github.com/DANLOANS/DANLOANS/blob/main/images/113.png) |
 
   
 <!-- Social icons section -->
