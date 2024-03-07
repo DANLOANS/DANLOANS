@@ -27,7 +27,9 @@
 
 | Languages ​​and tools |
 |---|
-| Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL | ![DanLoans's Stats](https://skillicons.dev/icons?i=js,html,css) |
+| Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL |
+| Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL |
+| Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL |
 
 <details> 
   <summary><h2> Languages ​​and tools </h2></summary>
