@@ -14,7 +14,7 @@
 
 | Github Trophy | Github Stats |
 |---|---|
-| ![DanLoans's Trophy](https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&count_private=true&hide_border=true&title_color=e0e0e0&icon_color=e0e0e0&text_color=c9d1d9&bg_color=0d1117) | ![DanLoans's Stats](https://github-readme-stats.vercel.app/api?username=DanLoans&theme=algolia&show_icons=true&hide_border=false&count_private=true&border_radius=20&date_format=j%20M%5B%20Y%5D) |
+| ![DanLoans's Trophy](https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&count_private=true&hide_border=true&title_color=e0e0e0&icon_color=e0e0e0&text_color=c9d1d9&bg_color=0d1117) | ![DanLoans's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&layout=compact&hide_border=true&title_color=ee0e0e0&text_color=e0e0e0&bg_color=0d1117) |
 
 | Top Languages | Github Streak |
 |---|---|
@@ -80,8 +80,3 @@
       <a href="https://github.com/search?q=user%3ADanLoans+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADanLoans+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
-
-
-
-
-
