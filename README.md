@@ -16,6 +16,10 @@
 |---|---|
 | ![DanLoans's Top Languages](https://streak-stats.demolab.com/?user=DanLoans&theme=github-dark-dimmed) | ![DanLoans's Streak](https://github-readme-activity-graph.vercel.app/graph?username=DanLoans&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=2D2D2D&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true) |
 
+|My Activity |
+|---|
+|![DanLoans's Top Languages](https://streak-stats.demolab.com/?user=DanLoans&theme=github-dark-dimmed) |
+
 
 <details> 
   <summary><h2> Languages ​​and tools </h2></summary>
