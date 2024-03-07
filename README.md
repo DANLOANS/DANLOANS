@@ -16,7 +16,7 @@
 | Languages ​​and tools |  |
 |---|---|
 | Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL | ![DanLoans's Stats](https://skillicons.dev/icons?i=js,html,css,vscode,github,figma,tailwind,git,r) |
-Frameworks: Node.js, Discord.js, Bootstrap | ![DanLoans's Stats](https://skillicons.dev/icons?i=Node,Discord,Bootstrap) |
+Frameworks: Node.js, Discord.js, Bootstrap |
 Tools: Git, Docker |
 IDEs: Visual Studio Code, Visual Studio, Android Studio |
 Etc: Cloudflare, Vercel, Railway, AWS, Grafana, MariaDB | ![DanLoans's Stats](https://github.com/DANLOANS/DANLOANS/blob/main/images/113.png) |
