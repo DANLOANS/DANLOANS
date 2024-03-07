@@ -2,7 +2,7 @@
 
   <div align="center">
 
- <h2>Github  Status ✅</h2><br>
+ <h2>Github  Status</h2><br>
 
 | My Discord | Github Stats |
 |---|---|
