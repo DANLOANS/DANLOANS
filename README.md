@@ -1,5 +1,7 @@
 ![profile)](https://github.com/DANLOANS/DANLOANS/blob/main/images/113.png)
 
+  <div align="center">
+
  <h2>Github  Status ✅</h2><br>
 
 | My Discord | Github Stats |
