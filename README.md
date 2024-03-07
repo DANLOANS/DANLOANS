@@ -14,11 +14,11 @@
 
 | Github Trophy | Github Stats |
 |---|---|
-| ![DanLoans's Trophy](<a href="#"><img alt="lanyard" src="https://lanyard.cnrad.dev/api/600994658641772544"/></a>) | ![DanLoans's Stats]() |
+| ![DanLoans's Trophy](https://github-readme-stats.vercel.app/api?username=DanLoans&show_icons=true&count_private=true&hide_border=true&title_color=e0e0e0&icon_color=e0e0e0&text_color=c9d1d9&bg_color=0d1117) | ![DanLoans's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&layout=compact&hide_border=true&title_color=ee0e0e0&text_color=e0e0e0&bg_color=0d1117) |
 
 | Top Languages | Github Streak |
 |---|---|
-| ![DanLoans's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&theme=algolia&show_icons=true&hide_border=false&layout=compact&border_radius=20&date_format=j%20M%5B%20Y%5D) | ![DanLoans's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanLoans&theme=algolia&hide_border=false&border_radius=20&date_format=j%20M%5B%20Y%5D) |
+| ![DanLoans's Top Languages](https://lanyard.cnrad.dev/api/600994658641772544) | ![DanLoans's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanLoans&theme=algolia&hide_border=false&border_radius=20&date_format=j%20M%5B%20Y%5D) |
   
 <!-- Social icons section -->
 
