@@ -7,6 +7,18 @@
     <img alt="lanyard" src="https://lanyard.cnrad.dev/api/600994658641772544"/>
 </a>
   <a href="https://github.com/DanLoans" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&langs_count=10&title_color=ee0e0e0&text_color=ffffff&icon_color=ee0e0e0&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+  <div align="center">
+
+ <h2>Github  Status ✅</h2><br>
+
+| Github Trophy | Github Stats |
+|---|---|
+| ![DanLoans's Trophy](https://github-profile-trophy.vercel.app/?username=DanLoans&theme=algolia&row=2&column=3&border_radius=45) | ![DanLoans's Stats](https://github-readme-stats.vercel.app/api?username=DanLoans&theme=algolia&show_icons=true&hide_border=false&count_private=true&border_radius=20&date_format=j%20M%5B%20Y%5D) |
+
+| Top Languages | Github Streak |
+|---|---|
+| ![DanLoans's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&theme=algolia&show_icons=true&hide_border=false&layout=compact&border_radius=20&date_format=j%20M%5B%20Y%5D) | ![DanLoans's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanLoans&theme=algolia&hide_border=false&border_radius=20&date_format=j%20M%5B%20Y%5D) |
   
 <!-- Social icons section -->
 
