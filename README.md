@@ -3,7 +3,8 @@
   <div align="center">
 
 <details> 
- <h2>Github  Status</h2><br>
+<summary><h2> >Github  Status </h2></summary>
+ <h3> My status </h3><br>
 
 | My Discord | Github Stats |
 |---|---|
