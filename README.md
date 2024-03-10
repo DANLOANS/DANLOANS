@@ -50,7 +50,7 @@
 
   | Languages ​​and tools |  |
 |---|---|
-| <li> Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL </li> | <a align="left" href="https://github.com/DANLOANS/Discord-Bot-Chat-Use-Database" title="DSA"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=Discord-Bot-Chat-Use-Database&theme=react&border_color=61dafb&border_radius=10"></a> |
+| <a align="left" href="https://github.com/DANLOANS/Discord-Bot-Chat-Use-Database" title="DSA"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=Discord-Bot-Chat-Use-Database&theme=react&border_color=#FFFFFF&border_radius=10"></a> | <a align="left" href="https://github.com/DANLOANS/Discord-Bot-Chat-Use-Database" title="DSA"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=Discord-Bot-Chat-Use-Database&theme=react&border_color=#FFFFFF&border_radius=10"></a> |
 | <li> Frameworks: Node.js, Discord.js, Bootstrap </li> | ![DanLoans's Stats](https://skillicons.dev/icons?i=discordjs,bootstrap,npm) |
 | <li> Tools: Git, rust </li> | ![DanLoans's Stats](https://skillicons.dev/icons?i=git,rust) |
 | <li> IDEs: Visual Studio Code, Visual Studio, Android Studio </li> | ![DanLoans's Stats](https://skillicons.dev/icons?i=vscode,visualstudio,arduino) |
