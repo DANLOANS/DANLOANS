@@ -48,9 +48,9 @@
   <summary><h2> Repositories </h2></summary>
   <h3> Repositories </h3>
 
-  | Languages ​​and tools |  |
+  |  |  |
 |---|---|
-| <a align="left" href="https://github.com/DANLOANS/Discord-Bot-Chat-Use-Database" title="DSA"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=Discord-Bot-Chat-Use-Database&theme=react&border_color=#FFFFFF&border_radius=10"></a> | <a align="left" href="https://github.com/DANLOANS/Discord-Bot-Chat-Use-Database" title="DSA"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=Discord-Bot-Chat-Use-Database&theme=react&border_color=#FFFFFF&border_radius=10"></a> |
+| <a align="left" href="https://github.com/DANLOANS/Discord-Bot-DM-Mail" title="DanLoans"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=Discord-Bot-DM-Mail&theme=react&border_color=#FFFFFF&border_radius=10"></a> | <a align="left" href="https://github.com/DANLOANS/Discord-Bot-Chat-Use-Database" title="DanLoans"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=Discord-Bot-Chat-Use-Database&theme=react&border_color=#FFFFFF&border_radius=10"></a> |
 | <li> Frameworks: Node.js, Discord.js, Bootstrap </li> | ![DanLoans's Stats](https://skillicons.dev/icons?i=discordjs,bootstrap,npm) |
 | <li> Tools: Git, rust </li> | ![DanLoans's Stats](https://skillicons.dev/icons?i=git,rust) |
 | <li> IDEs: Visual Studio Code, Visual Studio, Android Studio </li> | ![DanLoans's Stats](https://skillicons.dev/icons?i=vscode,visualstudio,arduino) |
