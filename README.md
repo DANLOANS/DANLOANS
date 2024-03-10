@@ -44,6 +44,23 @@
 | <li> Etc: Cloudflare, Vercel, Railway, AWS, Grafana, MariaDB </li> | 
 | <li>Currently Learning: Elixir, C++, Flutter, Next.js, Svelte </li> | 
 
+<details> 
+  <summary><h2> Repositories </h2></summary>
+  <h3> Repositories </h3>
+
+  | Languages ​​and tools |  |
+|---|---|
+| <li> Programming Languages: JavaScript, TypeScript, PHP, Java, C#, C, SQL </li> | ![DanLoans's Stats](https://github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=Discord-Bot-Chat-Use-Database&theme=react&border_color=61dafb&border_radius=10) |
+| <li> Frameworks: Node.js, Discord.js, Bootstrap </li> | ![DanLoans's Stats](https://skillicons.dev/icons?i=discordjs,bootstrap,npm) |
+| <li> Tools: Git, rust </li> | ![DanLoans's Stats](https://skillicons.dev/icons?i=git,rust) |
+| <li> IDEs: Visual Studio Code, Visual Studio, Android Studio </li> | ![DanLoans's Stats](https://skillicons.dev/icons?i=vscode,visualstudio,arduino) |
+| <li> Etc: Cloudflare, Vercel, Railway, AWS, Grafana, MariaDB </li> | 
+| <li>Currently Learning: Elixir, C++, Flutter, Next.js, Svelte </li> | 
+
+
+
+
+
   
 <!-- Social icons section -->
 
