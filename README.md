@@ -54,8 +54,8 @@
 | <a align="left" href="https://github.com/DANLOANS/Discord-Bot-DM-txt" title="DanLoans"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=Discord-Bot-DM-txt&theme=react&border_color=#FFFFFF&border_radius=10"></a> | <a align="left" href="https://github.com/DANLOANS/Discord-Bot-Chat-GPT" title="DanLoans"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=Discord-Bot-Chat-GPT&theme=react&border_color=#FFFFFF&border_radius=10"></a> |
 | <a align="left" href="https://github.com/DANLOANS/Discord-Bot-Verify" title="DanLoans"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=Discord-Bot-Verify&theme=react&border_color=#FFFFFF&border_radius=10"></a> | <a align="left" href="https://github.com/DANLOANS/Discord-Status-" title="DanLoans"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=Discord-Status-&theme=react&border_color=#FFFFFF&border_radius=10"></a> |
 | <a align="left" href="https://github.com/DANLOANS/website-templates-" title="DanLoans"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=website-templates-&theme=react&border_color=#FFFFFF&border_radius=10"></a> |  <a align="left" href="https://github.com/DANLOANS/-4-menu-web-templates" title="DanLoans"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DanLoans&repo=-4-menu-web-templates&theme=react&border_color=#FFFFFF&border_radius=10"></a> |
-| <li> Etc: Cloudflare, Vercel, Railway, AWS, Grafana, MariaDB </li> | 
-| <li>Currently Learning: Elixir, C++, Flutter, Next.js, Svelte </li> | 
+|  |  |
+|  |  |
 
 
 
