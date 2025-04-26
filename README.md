@@ -2,7 +2,7 @@
 
   <div align="center">
 
-<b>![DanLoans's Trophy](https://lanyard.cnrad.dev/api/600994658641772544)</b> 
+![DanLoans's Trophy](https://lanyard.cnrad.dev/api/600994658641772544)
 
   <div align="center">
   <p>✨ <b>Discord:</b> <a href='https://discord.com/users/600994658641772544'>@DANLOANS.</a> ✨</p>
