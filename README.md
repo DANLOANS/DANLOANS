@@ -1,6 +1,6 @@
-![profile)](https://github.com/DANLOANS/DANLOANS/blob/main/images/wa1.gif)
+![profile)](https://github.com/DANLOANS/DANLOANS/blob/main/images/wa1.gif)<br>
 
-  <div align="center"><br>
+  <div align="center">
 
 ![DanLoans's Trophy](https://lanyard.cnrad.dev/api/600994658641772544)
 
