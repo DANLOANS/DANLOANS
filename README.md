@@ -1,7 +1,5 @@
 ![profile)](https://github.com/DANLOANS/DANLOANS/blob/main/images/wa1.gif)
 
-<br />
-
   <div align="center">
 
 | | |
