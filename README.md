@@ -6,6 +6,7 @@
 |---|---|
 | ![DanLoans's Trophy](https://lanyard.cnrad.dev/api/600994658641772544) |  <p>✨ <b>Discord:</b> <a href='https://discord.com/users/600994658641772544'>@DANLOANS.</a> ✨</p> |
 
+---
 <details> 
   <summary><h2> About Me </h2></summary>
 
