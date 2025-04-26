@@ -1,4 +1,4 @@
-![profile)](https://github.com/DANLOANS/DANLOANS/blob/main/images/S2jGK7.gif)
+![profile)](https://github.com/DANLOANS/DANLOANS/blob/main/images/wa.gif)
 
   <div align="center">
 
