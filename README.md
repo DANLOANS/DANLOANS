@@ -2,17 +2,11 @@
 
   <div align="center">
 
-![DanLoans's Trophy](https://lanyard.cnrad.dev/api/600994658641772544)
-
-  <div align="center">
-  <p>✨ <b>Discord:</b> <a href='https://discord.com/users/600994658641772544'>@DANLOANS.</a> ✨</p>
-</div>
- 
  <h2>Github  Status</h2><br>
  
 | My Discord | My Stats |
 |---|---|
-| | ![DanLoans's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DanLoans&layout=compact&hide_border=true&title_color=ee0e0e0&text_color=e0e0e0&bg_color=0d1117) |
+| ![DanLoans's Trophy](https://lanyard.cnrad.dev/api/600994658641772544) |  <p>✨ <b>Discord:</b> <a href='https://discord.com/users/600994658641772544'>@DANLOANS.</a> ✨</p> |
 
 | My Stats |Top Languages |
 |---|---|
