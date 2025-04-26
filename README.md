@@ -3,6 +3,16 @@
 ---
   <div align="center">
 
+  
+<h2 align="center">Hi there, I'm <b>DanLoans</b> 👋</h2>
+<h4 align="center">I like to play roblox and make discord bot js.💕</h4>
+
+<div align="center">
+  <img align="center" src="https://raw.githubusercontent.com/Kuuuuuuuu/Kuuuuuuuu/main/imgs/tippy.png" height="150" alt="Nayuki's avatar" />
+</div>
+
+<br />
+
 | | |
 |---|---|
 | ![DanLoans's Trophy](https://lanyard.cnrad.dev/api/600994658641772544) |  <p>✨ <b>Discord:</b> <a href='https://discord.com/users/600994658641772544'>@DANLOANS.</a> ✨</p> |
