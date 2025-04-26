@@ -2,6 +2,7 @@
 
   <div align="center">
 
+  |---|
   | ![DanLoans's Trophy](https://lanyard.cnrad.dev/api/600994658641772544) |
 
   <div align="center">
