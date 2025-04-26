@@ -6,6 +6,16 @@
 |---|---|
 | ![DanLoans's Trophy](https://lanyard.cnrad.dev/api/600994658641772544) |  <p>✨ <b>Discord:</b> <a href='https://discord.com/users/600994658641772544'>@DANLOANS.</a> ✨</p> |
 
+### 🔗 Connect with Me
+
+<ul>
+  <li>🌟 Followers: 326</li>
+  <li>📚 Following: 765</li>
+  <li>📂 Public Repos: 16</li>
+</ul>
+
+<h5><i>🕒 Last Updated: 4/26/2025, 11:03:33 PM (GMT+7)</i></h5>
+
 ---
 <details> 
   <summary><h2> About Me </h2></summary>
