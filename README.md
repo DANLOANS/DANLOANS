@@ -1,8 +1,8 @@
-![profile)](https://github.com/DANLOANS/DANLOANS/blob/main/images/wa1.gif)<br>
+![profile)](https://github.com/DANLOANS/DANLOANS/blob/main/images/wa1.gif)
 
   <div align="center">
 
-![DanLoans's Trophy](https://lanyard.cnrad.dev/api/600994658641772544)
+<b>![DanLoans's Trophy](https://lanyard.cnrad.dev/api/600994658641772544)</b> 
 
   <div align="center">
   <p>✨ <b>Discord:</b> <a href='https://discord.com/users/600994658641772544'>@DANLOANS.</a> ✨</p>
