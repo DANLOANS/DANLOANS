@@ -8,7 +8,7 @@
 <h4 align="center">I like to play roblox and make discord bot js.💕</h4>
 
 <div align="center">
-  <img align="center" src="https://raw.githubusercontent.com/Kuuuuuuuu/Kuuuuuuuu/main/imgs/tippy.png" height="150" alt="Nayuki's avatar" />
+  <img align="center" src="https://github.com/DANLOANS/DANLOANS/blob/main/images/wa2.gif" height="150" alt="Nayuki's avatar" />
 </div>
 
 <br />
