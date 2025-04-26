@@ -2,6 +2,10 @@
 
   <div align="center">
 
+  <div align="center">
+  <p>🌸 <b>Discord:</b> <a href='https://discord.com/users/600994658641772544'>@DANLOANS.</a></p>
+</div>
+
  <h2>Github  Status</h2><br>
 
 | My Discord | My Stats |
