@@ -29,8 +29,8 @@
   <a href='https://wakatime.com/@DANLOANS'>
     <img alt='WakaTime' src='https://wakatime.com/badge/user/53bd057b-5c78-4742-81b1-3b7a11f050d0.svg' />
   </a>
-  <a href='https://user-badge.committers.top/thailand/Kuuuuuuuu'>
-    <img alt='Commit Ranking' src='https://user-badge.committers.top/thailand/Kuuuuuuuu.svg' />
+  <a href='https://user-badge.committers.top/thailand/DanLoans'>
+    <img alt='Commit Ranking' src='https://user-badge.committers.top/thailand/DanLoans.svg' />
   </a>
 </div>
 
