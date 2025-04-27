@@ -26,7 +26,7 @@
     <img alt='Profile Views' src='https://moe-counter.glitch.me/get/@DANLOANS?theme=moebooru' />
   </a>
   <br />
-  <a href='https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348'>
+  <a href='https://wakatime.com/@DANLOANS'>
     <img alt='WakaTime' src='https://wakatime.com/badge/user/53bd057b-5c78-4742-81b1-3b7a11f050d0.svg' />
   </a>
   <a href='https://user-badge.committers.top/thailand/Kuuuuuuuu'>
