@@ -39,7 +39,8 @@
 <div align="center">
   <img alt='Discord Status' src='https://lanyard.cnrad.dev/api/600994658641772544' />
 </div>
-</details>
+
+ <br />
 
 ---
 
