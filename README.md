@@ -11,8 +11,9 @@
   <img align="center" src="https://github.com/DANLOANS/DANLOANS/blob/main/images/wa2.gif" height="150" alt="Touhou" />
 </div>
 
-<br />
 ### 📊 GitHub Stats
+
+<br />
 
 |![DanLoans's profile views](https://moe-counter.glitch.me/get/@DANLOANS?theme=moebooru) | |
 |---|---|
