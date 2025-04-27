@@ -11,6 +11,19 @@
   <img align="center" src="https://github.com/DANLOANS/DANLOANS/blob/main/images/wa2.gif" height="150" alt="Touhou" />
 </div>
 
+<div align="center">
+  <a href="#">
+    <img alt='Profile Views' src='https://moe-counter.glitch.me/get/@DANLOANS?theme=moebooru' />
+  </a>
+  <br />
+  <a href='https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348'>
+    <img alt='WakaTime' src='https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg' />
+  </a>
+  <a href='https://user-badge.committers.top/thailand/DANLOANS'>
+    <img alt='Commit Ranking' src='https://user-badge.committers.top/thailand/Kuuuuuuuu.svg' />
+  </a>
+</div>
+
 <br />
 
 | | |
