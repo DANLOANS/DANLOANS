@@ -11,16 +11,34 @@
   <img align="center" src="https://github.com/DANLOANS/DANLOANS/blob/main/images/wa2.gif" height="150" alt="Touhou" />
 </div>
 
+<br />
+
+<div align="center">
+  <p>✨ <b>Discord:</b> <a href='https://discord.com/users/600994658641772544'>@DANLOANS</a></p>
+  <p>📼 <b>TikTok:</b> <a href='https://www.tiktok.com/@_danloans_'>@danloans</a></p>
+  <p>🎮 <b>STEAM:</b> <a href='https://steamcommunity.com/profiles/76561198412364874'>DanLoans</a></p>
+</div>
+
 ---
 
 ### 📊 GitHub Stats
 
-<br />
+<div align="center">
+  <a href="#">
+    <img alt='Profile Views' src='https://moe-counter.glitch.me/get/@DANLOANS?theme=moebooru' />
+  </a>
+  <br />
+  <a href='https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348'>
+    <img alt='WakaTime' src='https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg' />
+  </a>
+  <a href='https://user-badge.committers.top/thailand/Kuuuuuuuu'>
+    <img alt='Commit Ranking' src='https://user-badge.committers.top/thailand/Kuuuuuuuu.svg' />
+  </a>
+</div>
 
-|![DanLoans's profile views](https://moe-counter.glitch.me/get/@DANLOANS?theme=moebooru) | |
-|---|---|
-| ![DanLoans's Trophy](https://lanyard.cnrad.dev/api/600994658641772544) |  <p>✨ <b>Discord:</b> <a href='https://discord.com/users/600994658641772544'>@DANLOANS.</a> </p>  <p>📼 <b>TikTok:</b> <a href='https://www.tiktok.com/@_danloans_'>@_danloans_</a> </p>  <p>🎮 <b>STEAM:</b> <a href='https://steamcommunity.com/profiles/76561198412364874'>DanLoans</a>
-  </div>
+<div align="center">
+  <img alt='Discord Status' src='https://lanyard.cnrad.dev/api/600994658641772544' />
+</div>
 
 ### 🔗 Connect with Me
 
