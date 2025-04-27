@@ -27,7 +27,7 @@
   </a>
   <br />
   <a href='https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348'>
-    <img alt='WakaTime' src='https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white' />
+    <img alt='WakaTime' src='https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg' />
   </a>
   <a href='https://user-badge.committers.top/thailand/Kuuuuuuuu'>
     <img alt='Commit Ranking' src='https://user-badge.committers.top/thailand/Kuuuuuuuu.svg' />
