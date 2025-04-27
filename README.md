@@ -15,7 +15,7 @@
 
 | | |
 |---|---|
-| ![DanLoans's Trophy](https://lanyard.cnrad.dev/api/600994658641772544) |  <p>✨ <b>Discord:</b> <a href='https://discord.com/users/600994658641772544'>@DANLOANS.</a> </p>  <p>📼 <b>TikTok:</b> <a href='https://www.tiktok.com/@_danloans_'>@_danloans_</a> </p>  <p>✨ <b>Roblox:</b> <a href='https://www.roblox.com/users/2539277113/profile'>@DANLOANS</a>
+| ![DanLoans's Trophy](https://lanyard.cnrad.dev/api/600994658641772544) |  <p>✨ <b>Discord:</b> <a href='https://discord.com/users/600994658641772544'>@DANLOANS.</a> </p>  <p>📼 <b>TikTok:</b> <a href='https://www.tiktok.com/@_danloans_'>@_danloans_</a> </p>  <p>✨ <b>STEAM:</b> <a href='https://steamcommunity.com/profiles/76561198412364874'>DanLoans</a>
   </div>
 
 ### 🔗 Connect with Me
