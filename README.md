@@ -2,9 +2,6 @@
 
 ---
 
-  <div align="center">
-
-  
 <h2 align="center">Hi there, I'm <b>DanLoans</b> 👋</h2>
 <h4 align="center">I like to play roblox and make discord bot js.💕</h4>
 
