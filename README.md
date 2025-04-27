@@ -11,13 +11,6 @@
   <img align="center" src="https://github.com/DANLOANS/DANLOANS/blob/main/images/wa2.gif" height="150" alt="Touhou" />
 </div>
 
-<div align="center">
-  <a href="#">
-    <img alt='Profile Views' src='https://moe-counter.glitch.me/get/@DANLOANS?theme=moebooru' />
-  </a>
-  <br />
-</div>
-
 <br />
 
 |![DanLoans's profile views](https://moe-counter.glitch.me/get/@DANLOANS?theme=moebooru) | |
