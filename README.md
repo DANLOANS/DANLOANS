@@ -31,15 +31,6 @@
 | ![DanLoans's Trophy](https://lanyard.cnrad.dev/api/600994658641772544) |  <p>✨ <b>Discord:</b> <a href='https://discord.com/users/600994658641772544'>@DANLOANS.</a> </p>  <p>📼 <b>TikTok:</b> <a href='https://www.tiktok.com/@_danloans_'>@_danloans_</a> </p>  <p>🎮 <b>STEAM:</b> <a href='https://steamcommunity.com/profiles/76561198412364874'>DanLoans</a>
   </div>
 
-| | |
-|---|---|
-| <div align="center">
-  <a href="#">
-    <img alt='Profile Views' src='https://moe-counter.glitch.me/get/@DANLOANS?theme=moebooru' />
-  </a>
-  <br />
-</div> |
-
 ### 🔗 Connect with Me
 
 <ul>
