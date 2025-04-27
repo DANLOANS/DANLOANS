@@ -13,9 +13,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <br />
+
+### 📊 GitHub Stats
 
 |![DanLoans's profile views](https://moe-counter.glitch.me/get/@DANLOANS?theme=moebooru) | |
 |---|---|
