@@ -10,7 +10,9 @@
 <div align="center">
   <img align="center" src="https://github.com/DANLOANS/DANLOANS/blob/main/images/wa2.gif" height="150" alt="Touhou" />
 </div>
+
 ---
+
 ### 📊 GitHub Stats
 
 <br />
