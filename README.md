@@ -38,7 +38,7 @@
     <img alt='Profile Views' src='https://moe-counter.glitch.me/get/@DANLOANS?theme=moebooru' />
   </a>
   <br />
-</div>
+</div> |
 
 ### 🔗 Connect with Me
 
