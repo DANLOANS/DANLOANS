@@ -1,5 +1,11 @@
 ![profile)](https://github.com/DANLOANS/DANLOANS/blob/main/images/wa1.gif)
 
+<div align="center">
+<a href="https://app.daily.dev/wk18k"><img src="https://api.daily.dev/devcards/v2/R4A9vwYuZaODReN8yI9ca.png?type=default&r=68e" width="256"
+      align="right" alt="watchakorn's Dev Card"/></a>
+</div>
+<p>
+
 ---
 
 <h2 align="center">Hi there, I'm <b>DanLoans</b> 👋</h2>
