@@ -85,24 +85,12 @@
 
 <h3><code>// GITHUB.STATS</code></h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DANLOANS&show_icons=true&count_private=true&bg_color=0d1117&border_color=1b3a33&title_color=00d9a3&icon_color=00d9a3&text_color=c9d1d9&ring_color=00d9a3" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANLOANS&layout=compact&bg_color=0d1117&border_color=1b3a33&title_color=00d9a3&text_color=c9d1d9" height="170" alt="Top languages" />
-
-<br />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DANLOANS&background=0d1117&stroke=1b3a33&ring=00d9a3&fire=00d9a3&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=00d9a3&sideLabels=c9d1d9&dates=6e7681&border=1b3a33" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DANLOANS&bg_color=0d1117&color=00d9a3&line=00d9a3&point=e6edf3&area=true&area_color=00d9a3&hide_border=true&title_color=00d9a3" width="100%" alt="Activity graph" />
 
 <br />
 
 <a href="https://wakatime.com/@DANLOANS">
   <img alt="WakaTime" src="https://wakatime.com/badge/user/53bd057b-5c78-4742-81b1-3b7a11f050d0.svg" />
-</a>
-<a href="https://user-badge.committers.top/thailand/DanLoans">
-  <img alt="Commit Ranking" src="https://user-badge.committers.top/thailand/DanLoans.svg" />
 </a>
 <img alt="Followers" src="https://img.shields.io/github/followers/DANLOANS?style=flat-square&color=00d9a3&labelColor=0d1117" />
 
@@ -111,10 +99,6 @@
 <h3><code>// DISCORD.STATUS</code></h3>
 
 <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/600994658641772544?theme=dark&bg=0d1117&borderRadius=0px" />
-
-<br /><br />
-
-<img alt="Profile Views" src="https://moe-counter.glitch.me/get/@DANLOANS?theme=moebooru" />
 
 <br /><br />
 
