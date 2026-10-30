@@ -99,10 +99,6 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/output/github-snake.svg" alt="Contribution snake" width="100%" />
-
-<br />
-
 <a href="https://wakatime.com/@DANLOANS">
   <img alt="WakaTime" src="https://wakatime.com/badge/user/53bd057b-5c78-4742-81b1-3b7a11f050d0.svg" />
 </a>
