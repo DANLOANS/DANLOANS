@@ -44,6 +44,10 @@
 <img src="https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00d9a3&color=00d9a3" alt="Arduino" />
 <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00d9a3&color=00d9a3" alt="Git" />
 
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/main/images/radar.svg" alt="Skill radar" width="100%" />
+
 <img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/main/images/divider.svg" width="100%" alt="" />
 
 <h3><code>// PROJECT.DATABASE</code></h3>
@@ -92,6 +96,10 @@
 <h3><code>// GITHUB.STATS</code></h3>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DANLOANS&background=0d1117&stroke=1b3a33&ring=00d9a3&fire=00d9a3&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=00d9a3&sideLabels=c9d1d9&dates=6e7681&border=1b3a33" alt="GitHub streak" />
+
+<br />
+
+<img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/output/github-snake.svg" alt="Contribution snake" width="100%" />
 
 <br />
 
