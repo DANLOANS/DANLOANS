@@ -21,9 +21,9 @@
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/main/images/discord_top.svg" alt="" /><br />
-<img alt="Discord Status" src="https://lanyard.cnrad.dev/api/600994658641772544?theme=dark&bg=0d1117&borderRadius=0px" /><br />
-<img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/main/images/discord_bottom.svg" alt="" />
+<img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/main/images/discord_top.svg" alt="" align="top" /><br />
+<img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/main/images/discord_left.svg" alt="" align="top" /><img alt="Discord Status" src="https://lanyard.cnrad.dev/api/600994658641772544?theme=dark&bg=0d1117&borderRadius=0px" width="410" align="top" /><img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/main/images/discord_right.svg" alt="" align="top" /><br />
+<img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/main/images/discord_bottom.svg" alt="" align="top" />
 
 <br /><br />
 
