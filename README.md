@@ -23,10 +23,6 @@
 
 <img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/main/images/terminal.svg" alt="terminal" width="100%" />
 
-<br />
-
-<img src="https://github.com/DANLOANS/DANLOANS/blob/main/images/wa2.gif?raw=true" height="150" alt="Touhou" />
-
 <img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/main/images/divider.svg" width="100%" alt="" />
 
 <img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/main/images/skills.svg" alt="Tech stack" width="100%" />
