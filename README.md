@@ -19,6 +19,12 @@
   <img src="https://img.shields.io/badge/STEAM-DanLoans-0d1117?style=for-the-badge&logo=steam&logoColor=00d9a3&labelColor=00d9a3" alt="Steam" />
 </a>
 
+<br /><br />
+
+<img alt="Discord Status" src="https://lanyard.cnrad.dev/api/600994658641772544?theme=dark&bg=0d1117&borderRadius=0px" />
+
+<br /><br />
+
 <img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/main/images/divider.svg" width="100%" alt="" />
 
 <img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/main/images/terminal.svg" alt="terminal" width="100%" />
@@ -94,13 +100,7 @@
 </a>
 <img alt="Followers" src="https://img.shields.io/github/followers/DANLOANS?style=flat-square&color=00d9a3&labelColor=0d1117" />
 
-<img src="https://raw.githubusercontent.com/DANLOANS/DANLOANS/main/images/divider.svg" width="100%" alt="" />
-
-<h3><code>// DISCORD.STATUS</code></h3>
-
-<img alt="Discord Status" src="https://lanyard.cnrad.dev/api/600994658641772544?theme=dark&bg=0d1117&borderRadius=0px" />
-
-<br /><br />
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9a3,50:005c45,100:0d1117&height=90&section=footer" alt="footer" width="100%" />
 
